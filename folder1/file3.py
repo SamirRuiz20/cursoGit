@@ -3,3 +3,7 @@ def fun() :
 
     pass
 
+def spam() :
+    
+    print("Funcion De Spam")
+
